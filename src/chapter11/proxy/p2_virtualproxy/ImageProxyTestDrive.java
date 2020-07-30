@@ -24,6 +24,7 @@ public class ImageProxyTestDrive {
         cds.put("MCMXC A.D.","http://images.amazon.com/images/P/B000002URV.01.LZZZZZZZ.jpg");
         cds.put("Northern Exposure","http://images.amazon.com/images/P/B000003SFN.01.LZZZZZZZ.jpg");
         cds.put("Selected Ambient Works, Vol. 2","http://images.amazon.com/images/P/B000002MNZ.01.LZZZZZZZ.jpg");
+        cds.put("Earth","https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg");
 
         URL initialURL = new URL((String)cds.get("Selected Ambient Works, Vol. 2"));
         menuBar = new JMenuBar();
