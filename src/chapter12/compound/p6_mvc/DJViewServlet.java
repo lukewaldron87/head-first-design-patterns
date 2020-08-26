@@ -2,7 +2,11 @@ package chapter12.compound.p6_mvc;
 
 import java.io.IOException;
 
-public class DJViewServlet extends HttpServlet {
+public class DJViewServlet{
+
+}
+
+/*public class DJViewServlet extends HttpServlet {
 
     private static final long serialVersionUID = 2L;
 
@@ -64,4 +68,4 @@ public class DJViewServlet extends HttpServlet {
     }
 
 
-}
+}*/
